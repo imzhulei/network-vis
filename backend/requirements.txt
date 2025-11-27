@@ -1,0 +1,8 @@
+# The required packages for the backend
+flask
+flask-sqlalchemy
+flask-migrate
+flask-cors
+redis
+
+# Please install them using: pip install -r requirements.txt
